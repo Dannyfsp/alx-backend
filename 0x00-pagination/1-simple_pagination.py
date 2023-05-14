@@ -5,7 +5,7 @@ Description:    A method named get_page that takes two integer args page with
                 Using assert to verify that both args are integers greater
                 than 0.
                 Using index_range from 0-simple_helper_function.py to find
-                the correct indexes to paginate the dataset correctly and 
+                the correct indexes to paginate the dataset correctly and
                 return the appropriate page of the dataset.
 '''
 
