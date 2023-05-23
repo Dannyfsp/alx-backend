@@ -6,3 +6,4 @@ This is a repository for projects regarding backend concepts in python in the AL
 ### Projects
 - 0x00-pagination
 - 0x01-caching
+- 0x02-i18n
